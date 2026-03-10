@@ -37,7 +37,7 @@ README.md
 ## Section 1 — Hero / About
 
 **Content:**
-- Name: Kendi Ng Ka Wai
+- Name: Kendi Ng
 - Title line: `Marketing Analytics & Digital Strategist | Python & AI Integration | China Media | Hong Kong`
 - 3-sentence positioning paragraph:
 
@@ -320,4 +320,4 @@ When in doubt — anonymise or omit.
 ---
 
 *Generated as project brief for Claude Code implementation*
-*Kendi Ng Ka Wai | kendi@leary.hk*
+*Kendi Ng | kendi@leary.hk*
