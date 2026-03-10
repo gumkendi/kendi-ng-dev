@@ -281,6 +281,23 @@ img {
   background: var(--color-white);
 }
 
+.section-subtitle {
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.95rem;
+  margin-top: -1rem;
+  margin-bottom: 2.5rem;
+}
+
+.section-subtitle a {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.section-subtitle a:hover {
+  text-decoration: underline;
+}
+
 .projects-list {
   display: flex;
   flex-direction: column;
@@ -391,6 +408,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.project-card-compact .project-links {
+  margin-top: 1rem;
+}
+
 .project-media {
   padding: 1.5rem 2rem 2rem;
 }
@@ -416,6 +437,13 @@ img {
 
 .video-placeholder p {
   font-size: 0.85rem;
+}
+
+.project-video {
+  width: 100%;
+  max-width: 480px;
+  border-radius: var(--radius);
+  background: #000;
 }
 
 /* ========== 9. Timeline ========== */
